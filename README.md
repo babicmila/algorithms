@@ -1,2 +1,3 @@
-# algorithms
-Implementation of most common sorting and searching algorithms from stratch in Java.
+# Sorting and Searching Algorithms
+
+Implementation of most common sorting and searching algorithms in Java.
